@@ -1,0 +1,91 @@
+
+body{
+    font-family: 'Raleway', sans-serif;
+     
+}
+.heading{
+    color: darkcyan;
+    text-align: center;
+}
+.span{
+    color:coral;
+}
+h1{
+    font-size: 60px;
+}
+.link{
+    text-decoration: none;
+    border: 2px solid gray;
+    padding: 5px 20px;
+    background-image: linear-gradient(orange ,tomato);
+    border-radius: 8px;
+
+    
+}
+.deit{
+    padding-left: 10px;
+    padding-top: 150px;
+}
+.half-width{
+    display: flex;
+}
+.resipies{
+    color: aqua;
+    text-align: center;
+    width: 100%;
+    
+}
+.para  {
+    width: 50%;
+    text-align: center;
+    margin: 0 auto;
+    padding: 5px;
+}
+.background-img{
+    background-image: url(images/shapes/Frame\ 58.jpg);
+}
+.dim{
+    text-align: center;
+}
+.dal{
+    text-align: center;
+}
+.tiktiki{
+    border: 1px solid gray;
+    border-radius: 10px;
+    box-shadow: 10px 10px 10px 10px gray;
+    padding: 10px;
+    width: 40%;
+    margin: 50px;
+
+}
+.main-tiktiki{
+    padding: 10px;
+    margin: 10px;
+}
+.bal{
+   margin:0 17px;
+    padding: 0 10%;
+}
+.last-above{
+    border: 1px solid grey ;
+    box-shadow: 10px 10px 10px 10px gray; ;
+}
+.n-span{
+    color: aqua;
+}
+#last-n{
+    color: aquamarine;
+}
+.ll-span{
+    font-weight: bold;
+    color: darkcyan;
+}
+.f--k{
+    width: 50%;
+    text-align: center;
+    margin: 0 auto;
+    padding: 20px;
+    
+    
+}
